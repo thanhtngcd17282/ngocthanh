@@ -8,7 +8,7 @@
           }
           body
           {
-              background: ulr(https://www.facebook.com/photo.php?fbid=980042325488881&set=a.100914416735014&type=3&theater);
+              background: ulr(ntn.jpg);
                   
           }
       </style>
