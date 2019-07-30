@@ -8,8 +8,8 @@
     putenv("DATABASE_URL=https://www.facebook.com/ngocthanh.tran.3954");
     echo getenv("DATABASE_URL")
  ?> 
-     <a href="https://www.facebook.com/ngocthanh.tran.3954">
-         ngocthanh.heruku.com
+     <a href="ngocthanh.heruku.com">
+         https://www.facebook.com/ngocthanh.tran.3954
      </a>
      
  </body>
